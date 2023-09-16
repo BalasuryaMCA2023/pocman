@@ -50,10 +50,10 @@
     function moving(){
         img.src=arr[direction][flag]
 
-        if(position>1150 || position<30){
+        if(position>1200 || position<30){
             direction= 1-direction
         }
-        if(direction===5){
+        if(direction===0){
             position += velocity
         }
         else{
@@ -66,7 +66,7 @@
         img.style.height="150px"
         img.style.position="absolute"
     }
-    setInterval(moving,200)
+    setInterval(moving,100)
 </script>    
 </body>
 </html>
