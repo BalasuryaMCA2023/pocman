@@ -13,12 +13,16 @@ pocman-project
  step-5:open the script tag (or) create sprate .js file  ex- <!-- Include Pac-Man JavaScript -->
 <script src="pacman.js"></script>
 
-step-6:create a variable just like that ex-// Pac-Man's current position
+step-6:create a variable just like that
+
+ex-// Pac-Man's current position
+
 let pacmanX = 100;
 let pacmanY = 100;
 
 // Speed of Pac-Man
 let pacmanSpeed = 5;
+
 step-7 create the function mov the img (see that my above progarm file ex-open the index file)
 
  step-8:poc-man prograam is running successfully 
