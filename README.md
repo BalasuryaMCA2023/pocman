@@ -10,7 +10,9 @@ pocman-project
 
  step-4:create box using <style> type the height and width to create the rectangle box css (or) style tag in html file
 
- step-5:open the script tag (or) create sprate .js file  ex- <!-- Include Pac-Man JavaScript -->
+ step-5:open the script tag (or) create sprate .js file 
+ 
+ ex- <!-- Include Pac-Man JavaScript -->
 <script src="pacman.js"></script>
 
 step-6:create a variable just like that
