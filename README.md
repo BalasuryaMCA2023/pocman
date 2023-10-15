@@ -1,4 +1,4 @@
-pocman-project
+# pocman-project
 
  create description
 
@@ -12,19 +12,28 @@ pocman-project
 
  step-5:open the script tag (or) create sprate .js file 
  
- ex- <!-- Include Pac-Man JavaScript -->
+ ex- : <!-- Include Pac-Man JavaScript -->
 <script src="pacman.js"></script>
 
 step-6:create a variable just like that
 
-ex-// Pac-Man's current position
+ex-: 
+Pac-Man's current position
 
 let pacmanX = 100;
 let pacmanY = 100;
 
-// Speed of Pac-Man
+   Speed of Pac-Man
 let pacmanSpeed = 5;
 
 step-7 create the function mov the img (see that my above progarm file ex-open the index file)
 
- step-8:poc-man prograam is running successfully 
+step-8:poc-man prograam is running successfully 
+
+
+https://github.com/BalasuryaMCA2023/pocman/assets/139736173/666d67d3-3390-4570-8607-25b3205dd90e
+
+
+# Future Improvement 
+
+currently, for positions X and Y only two directions  future improvements are multiple different using Javascript another language 
