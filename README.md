@@ -33,4 +33,4 @@ https://github.com/BalasuryaMCA2023/pocman/assets/139736173/89696684-8395-430e-a
 
 # Future Improvement
 
-currently, for positions X and Y only two directions future improvements are multiple different using Javascript another language
+currently, for positions X and Y only two directions future improvements are multiple directions automatically using Javascript are another language in the future's 
